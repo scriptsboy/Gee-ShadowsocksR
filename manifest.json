@@ -88,6 +88,5 @@
 		"defaultvalue": "okex.com\r\nbig.one\r\nhuobi.pro",
 		"required": 0,
 		"description": "每行一个域名或ip"
-	}
-]
+	}]
 }

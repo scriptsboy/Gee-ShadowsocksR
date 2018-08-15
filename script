@@ -1,6 +1,6 @@
 #!/bin/sh
 
-APP_NAME="ShadowsocksR-X"
+APP_NAME="test_SSR"
 APP_DIR="/etc/$APP_NAME"
 
 DNSMASQ_RULE="/tmp/dnsmasq.d/00-$APP_NAME.conf"
